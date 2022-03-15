@@ -1,7 +1,7 @@
 {
   "description": "Crypto kitties on testnet NFT", 
   "external_url": "https://mashable.com/article/how-to-play-cryptokitties", 
-  "image": "https://helios-i.mashable.com/imagery/articles/04tfuZxwA56wQUFcHkkCFWD/hero-image.fill.size_1248x702.v1623367746.png", 
+  "image": "https://raw.githubusercontent.com/dilipomi/NFTtest/main/kitty.png", 
   "name": "Crypto Kitties",
  
 }
