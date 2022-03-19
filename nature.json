@@ -1,0 +1,16 @@
+{
+  "name": "Beautiful Place",
+  "description": "amazing place",
+  "image": "https://raw.githubusercontent.com/dilipomi/NFTtest/main/beauty.jpg",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/Qmf9narSu5GJZeywkqdethTsaJmDvKq8xTtBYmSW6Hwjzy",
+  "attributes": [
+      {
+      "trait_type": "Color", 
+      "value": "Blue"
+    }, 
+    {
+      "trait_type": "Location", 
+      "value":"Paradise"
+    }
+      ]
+}
